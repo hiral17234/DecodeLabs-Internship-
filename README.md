@@ -140,10 +140,6 @@ Oreo: Goodbye! Have a nice day.
 Chatbot closed successfully.
 ```
 
-### Screenshot
-
-![Chatbot Output](screenshot.png)
-
 ---
 
 ## 🚀 Key Learning Outcomes

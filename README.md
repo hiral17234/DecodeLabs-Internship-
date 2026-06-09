@@ -1,4 +1,4 @@
-# 🤖 DecodeLabs AI Internship – Project 1
+# DecodeLabs AI Internship – Project 1
 
 ## Rule-Based AI Chatbot using Python
 
